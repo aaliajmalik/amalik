@@ -21,7 +21,7 @@
 - Large sample size
 
 **Gameplay Timeline**
-![image](U/Users/aaliamalik/HWBIO174/Homework_02/amalik/gametimeline.png)
+![image](gametimeline.png)
 
 **Hypothesis**
 - How does mind-wandering relate to insight-based learning?
@@ -31,7 +31,7 @@
 **Results**
 | Reaction time vs. Number of Level Attempts      | Log of Reaction time vs. Number of Level Attempts | Regression of Reaction time vs. Number of Level Attempts     | Mean Reaction Time vs. Number of Level Attempts        |
 | :---:        |    :----:   |          :---: |     :---:    |
-|       ![image](Users/aaliamalik/Desktop/HWBIO174/Homework_02/graph1.png)     | 2       |       3   |       4      |
+|       ![image](graph1.png)     | 2       |       3   |       4      |
 | Distributions of the first reaction times and level attempts for winners and quitters    | This is the ‘log’ of the recored values in order to scale the data. This helps to reduce the impact of outliers.       |  Regression to predict the number of attempts for both winners and quitters      |   Quitters spent more time before making a move regardless of how many attempts they required.          |
 
 **Results**
